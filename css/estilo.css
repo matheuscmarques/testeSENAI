@@ -1,0 +1,46 @@
+.fones{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: brown;
+  font-size: 20px;
+  margin-right: 20px;
+  font-weight: bold;
+}
+
+.midias{
+  font-family: montserrat, verdana, 'trebuchet ms', sans-serif;
+  color: brown;
+  float: right;
+  display: block;
+  margin-left: 25px;
+  font-size: 20px;
+}
+
+.bg_menu{
+  background: #f5bb05;
+}
+
+.menu{
+  font-family: montserrat, verdana, 'trebuchet ms', sans-serif;
+  font-size: 32px;
+  color: white;
+  font-weight: 800;
+  margin-right: 15px;
+  margin-left: 15px;
+  display: inline-block;
+  text-transform: uppercase;
+}
+
+.banner{
+  width: 100%;
+}
+
+.subtitulos{
+  font-size: 35px;
+  text-align: center;
+  color: orange;
+}
+
+#cafe{
+  margin-top: -25px;
+  margin-left: 46%;
+}
